@@ -60,8 +60,8 @@ I welcome contributions to this repository! If you have any improvements, sugges
 You can reach me via GitHub if you have any questions or would like to connect.
 
 Happy coding!
-
-Kishore
+Ranakishore Rama
+kishore.hive@gmail.com
 
 ---
 
